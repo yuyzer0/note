@@ -9,8 +9,8 @@
 
 ## Flutter環境整備  
 - 参考  
- - Flutter × Firebase で始めるモバイルアプリ開発  
- - Flutter公式サイト　https://flutter.dev/docs/get-started/install/macos  
+-- Flutter × Firebase で始めるモバイルアプリ開発  
+-- Flutter公式サイト　https://flutter.dev/docs/get-started/install/macos  
 - Run flutter doctor でいろいろアラートが出ている  
- - AndroidStudioのアラートはインストールで消えた  
- - Xcodeでもアラート出ているが恐らくXcode側で修正すれば行ける  
+-- AndroidStudioのアラートはインストールで消えた  
+-- Xcodeでもアラート出ているが恐らくXcode側で修正すれば行ける  
