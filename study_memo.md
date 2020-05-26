@@ -2,12 +2,12 @@
  - 進捗をマークダウンで記載していってみる  
 
 ## 20200525  
-## Flutter  
+### Flutter  
 - クロスプラットフォーム（Android、iOsのアプリ開発）
 - 漠然と基幹システム以外に関わりたいと考えてからのアクション  
 - バックエンドでサーバーレスのFirebaseも勉強していこう  
 
-## Flutter環境整備  
+### Flutter環境整備  
 - 参考  
 - Flutter × Firebase で始めるモバイルアプリ開発  
 - Flutter公式サイト　https://flutter.dev/docs/get-started/install/macos  
@@ -16,6 +16,6 @@
 - Xcodeでもアラート出ているが恐らくXcode側で修正すれば行ける  
 
 ## 20200526  
-## 環境構築続き  
+### 環境構築続き  
 - AndroidStudioでFlutterプロジェクト作成  
 - エミュレータ起動まで確認
