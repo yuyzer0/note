@@ -14,3 +14,8 @@
 - Run flutter doctor でいろいろアラートが出ている  
 - AndroidStudioのアラートはインストールで消えた  
 - Xcodeでもアラート出ているが恐らくXcode側で修正すれば行ける  
+
+## 20200526  
+## 環境構築続き  
+- AndroidStudioでFlutterプロジェクト作成  
+- エミュレータ起動まで確認
